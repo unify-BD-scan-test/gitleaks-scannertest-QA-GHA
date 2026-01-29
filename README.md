@@ -23,7 +23,6 @@
 [gitleaks-playground-badge]: https://img.shields.io/badge/gitleaks%20-playground-blue
 [gitleaks-playground]: https://gitleaks.io/playground
 
-
 [![Github Action Test][badge-build]][build]
 [![Docker Hub][dockerhub-badge]][dockerhub]
 [![Gitleaks Playground][gitleaks-playground-badge]][gitleaks-playground]
